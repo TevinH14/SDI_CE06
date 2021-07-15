@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_FindErrorsCond\Hamilton_Tevin_FindErrorsCond\bin\Debug\Hamilton_Tevin_FindErrorsCond.exe.config
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_FindErrorsCond\Hamilton_Tevin_FindErrorsCond\bin\Debug\Hamilton_Tevin_FindErrorsCond.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_FindErrorsCond\Hamilton_Tevin_FindErrorsCond\bin\Debug\Hamilton_Tevin_FindErrorsCond.pdb
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_FindErrorsCond\Hamilton_Tevin_FindErrorsCond\obj\Debug\Hamilton_Tevin_FindErrorsCond.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_FindErrorsCond\Hamilton_Tevin_FindErrorsCond\obj\Debug\Hamilton_Tevin_FindErrorsCond.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_FindErrorsCond\Hamilton_Tevin_FindErrorsCond\obj\Debug\Hamilton_Tevin_FindErrorsCond.exe
+\\vmware-host\Shared Folders\Documents\SDI_Projects\Hamilton_Tevin_FindErrorsCond\Hamilton_Tevin_FindErrorsCond\obj\Debug\Hamilton_Tevin_FindErrorsCond.pdb
